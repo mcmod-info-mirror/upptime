@@ -120,13 +120,6 @@ sites:
     checkInterval: 300
     followRedirects: true
 
-  - name: "MCIM-Curseforge file cdn failed test"
-    url: https://mod.mcimirror.top/files/5106
-    method: GET
-    expectedStatusCodes: [307, 200]
-    checkInterval: 300
-    followRedirects: true
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
