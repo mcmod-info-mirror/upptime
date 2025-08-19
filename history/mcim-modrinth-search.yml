@@ -1,7 +1,7 @@
 url: https://mod.mcimirror.top/modrinth/v2/search?offset=0&limit=10&index=relevance
-status: down
-code: 525
-responseTime: 289
-lastUpdated: 2025-08-19T17:13:05.872Z
+status: up
+code: 200
+responseTime: 405
+lastUpdated: 2025-08-19T17:52:07.873Z
 startTime: 2025-07-08T03:50:20.607Z
 generator: Upptime <https://github.com/upptime/upptime>
