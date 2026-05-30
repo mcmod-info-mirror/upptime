@@ -336,10 +336,10 @@
     "url": "https://mod.mcimirror.top/curseforge/v1/mods/256717/files/2666198",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-single-file",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "92.53%",
-    "uptimeWeek": "98.93%",
+    "uptimeDay": "92.42%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "95.56%",
     "uptimeYear": "98.75%",
     "time": 827,
@@ -423,7 +423,8 @@
       "2026-05-16": 612,
       "2026-05-15": 800,
       "2026-05-17": 425,
-      "2026-05-29": 108
+      "2026-05-29": 108,
+      "2026-05-30": 2
     }
   },
   {
@@ -1192,10 +1193,10 @@
     "url": "https://mod.mcimirror.top/modrinth/v2/version_files/update",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-files-update",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "95.87%",
-    "uptimeWeek": "98.61%",
+    "uptimeDay": "95.78%",
+    "uptimeWeek": "98.59%",
     "uptimeMonth": "95.57%",
     "uptimeYear": "99.01%",
     "time": 1118,
@@ -1260,7 +1261,8 @@
       "2026-05-15": 786,
       "2026-05-17": 403,
       "2026-05-24": 81,
-      "2026-05-29": 59
+      "2026-05-29": 59,
+      "2026-05-30": 1
     }
   },
   {
@@ -1271,8 +1273,8 @@
     "status": "down",
     "uptime": "84.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "50.21%",
-    "uptimeMonth": "12.93%",
+    "uptimeWeek": "50.83%",
+    "uptimeMonth": "13.08%",
     "uptimeYear": "84.66%",
     "time": 2408,
     "timeDay": 0,
@@ -1388,11 +1390,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-file-cdn",
     "status": "down",
-    "uptime": "90.98%",
-    "uptimeDay": "87.23%",
-    "uptimeWeek": "93.19%",
+    "uptime": "90.97%",
+    "uptimeDay": "82.90%",
+    "uptimeWeek": "92.57%",
     "uptimeMonth": "79.50%",
-    "uptimeYear": "90.98%",
+    "uptimeYear": "90.97%",
     "time": 3647,
     "timeDay": 35999,
     "timeWeek": 35858,
@@ -1476,7 +1478,7 @@
       "2026-05-16": 180,
       "2026-05-24": 268,
       "2026-05-29": 295,
-      "2026-05-30": 124
+      "2026-05-30": 186
     }
   }
 ]
