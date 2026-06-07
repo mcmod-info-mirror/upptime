@@ -1313,7 +1313,7 @@
     "uptime": "85.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "36.81%",
+    "uptimeMonth": "36.97%",
     "uptimeYear": "85.04%",
     "time": 2408,
     "timeDay": 0,
@@ -1428,10 +1428,10 @@
     "url": "https://mod.mcimirror.top/files/5106/178/jei-1.19.2-forge-11.6.0.1019.jar",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-file-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "91.14%",
-    "uptimeDay": "94.61%",
-    "uptimeWeek": "98.92%",
+    "uptimeDay": "94.54%",
+    "uptimeWeek": "98.91%",
     "uptimeMonth": "97.10%",
     "uptimeYear": "91.14%",
     "time": 4502,
@@ -1520,7 +1520,7 @@
       "2026-05-30": 262,
       "2026-05-31": 63,
       "2026-06-03": 31,
-      "2026-06-07": 78
+      "2026-06-07": 79
     }
   }
 ]
