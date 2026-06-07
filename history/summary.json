@@ -1063,11 +1063,11 @@
     "url": "https://mod.mcimirror.top/modrinth/v2/version_file/acac3670ee25cc10ed63136e5dd3b792acd13595?algorithm=sha1",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-hash",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "95.58%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "95.56%",
     "uptimeYear": "99.01%",
     "time": 672,
     "timeDay": 765,
@@ -1136,7 +1136,8 @@
       "2026-05-17": 407,
       "2026-05-29": 69,
       "2026-05-30": 22,
-      "2026-06-03": 40
+      "2026-06-03": 40,
+      "2026-06-07": 9
     }
   },
   {
@@ -1311,7 +1312,7 @@
     "uptime": "85.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "36.10%",
+    "uptimeMonth": "36.30%",
     "uptimeYear": "85.03%",
     "time": 2408,
     "timeDay": 0,
@@ -1429,7 +1430,7 @@
     "status": "up",
     "uptime": "91.13%",
     "uptimeDay": "94.61%",
-    "uptimeWeek": "98.30%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "97.10%",
     "uptimeYear": "91.13%",
     "time": 4502,
