@@ -1308,11 +1308,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-file-cdn",
     "status": "down",
-    "uptime": "85.02%",
+    "uptime": "85.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.21%",
-    "uptimeYear": "85.02%",
+    "uptimeMonth": "35.92%",
+    "uptimeYear": "85.03%",
     "time": 2408,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1426,12 +1426,12 @@
     "url": "https://mod.mcimirror.top/files/5106/178/jei-1.19.2-forge-11.6.0.1019.jar",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-file-cdn",
-    "status": "up",
-    "uptime": "91.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "97.28%",
-    "uptimeYear": "91.14%",
+    "status": "down",
+    "uptime": "91.15%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "91.15%",
     "time": 4439,
     "timeDay": 35454,
     "timeWeek": 36374,
@@ -1517,7 +1517,8 @@
       "2026-05-29": 295,
       "2026-05-30": 262,
       "2026-05-31": 63,
-      "2026-06-03": 31
+      "2026-06-03": 31,
+      "2026-06-07": 1
     }
   }
 ]
