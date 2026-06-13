@@ -4,16 +4,16 @@
     "url": "https://mod.mcimirror.top",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-root",
-    "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "87.83%",
-    "uptimeWeek": "90.38%",
-    "uptimeMonth": "96.19%",
-    "uptimeYear": "99.26%",
+    "status": "up",
+    "uptime": "99.23%",
+    "uptimeDay": "77.76%",
+    "uptimeWeek": "88.94%",
+    "uptimeMonth": "95.86%",
+    "uptimeYear": "99.23%",
     "time": 612,
-    "timeDay": 1090,
-    "timeWeek": 1070,
-    "timeMonth": 974,
+    "timeDay": 911,
+    "timeWeek": 1030,
+    "timeMonth": 964,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2025-07-15": 32,
@@ -80,7 +80,7 @@
       "2026-06-08": 177,
       "2026-06-10": 150,
       "2026-06-12": 369,
-      "2026-06-13": 1
+      "2026-06-13": 146
     }
   },
   {
@@ -1340,7 +1340,7 @@
     "uptime": "85.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.22%",
-    "uptimeMonth": "54.07%",
+    "uptimeMonth": "54.40%",
     "uptimeYear": "85.22%",
     "time": 2395,
     "timeDay": 820,
