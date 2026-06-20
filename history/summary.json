@@ -4,11 +4,11 @@
     "url": "https://mod.mcimirror.top",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-root",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "96.03%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "96.02%",
     "uptimeYear": "99.25%",
     "time": 621,
     "timeDay": 2085,
@@ -80,7 +80,8 @@
       "2026-06-08": 177,
       "2026-06-10": 150,
       "2026-06-12": 369,
-      "2026-06-13": 146
+      "2026-06-13": 146,
+      "2026-06-20": 2
     }
   },
   {
@@ -88,11 +89,11 @@
     "url": "https://mod.mcimirror.top/docs",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "95.74%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "95.73%",
     "uptimeYear": "98.88%",
     "time": 1183,
     "timeDay": 319,
@@ -166,7 +167,8 @@
       "2026-06-10": 355,
       "2026-06-12": 174,
       "2026-06-13": 90,
-      "2026-06-15": 113
+      "2026-06-15": 113,
+      "2026-06-20": 2
     }
   },
   {
@@ -174,10 +176,10 @@
     "url": "https://mod.mcimirror.top/curseforge/v1/mods/search?gameId=432&pageSize=50",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "97.63%",
     "uptimeYear": "99.02%",
     "time": 2466,
@@ -256,7 +258,8 @@
       "2026-05-31": 253,
       "2026-06-03": 88,
       "2026-06-10": 140,
-      "2026-06-12": 368
+      "2026-06-12": 368,
+      "2026-06-20": 2
     }
   },
   {
@@ -264,19 +267,18 @@
     "url": "https://mod.mcimirror.top/curseforge/v1/mods/238222",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-mod",
-    "status": "up",
-    "uptime": "98.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.15%",
+    "status": "down",
+    "uptime": "98.42%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.13%",
     "uptimeMonth": "96.22%",
-    "uptimeYear": "98.41%",
+    "uptimeYear": "98.42%",
     "time": 1256,
     "timeDay": 455,
     "timeWeek": 1980,
     "timeMonth": 2159,
     "timeYear": 1256,
     "dailyMinutesDown": {
-      "2025-09-10": 51,
       "2025-09-13": 25,
       "2025-09-19": 39,
       "2025-09-18": 6,
@@ -349,7 +351,8 @@
       "2026-06-08": 177,
       "2026-06-10": 345,
       "2026-06-11": 97,
-      "2026-06-16": 187
+      "2026-06-16": 187,
+      "2026-06-20": 2
     }
   },
   {
@@ -357,19 +360,18 @@
     "url": "https://mod.mcimirror.top/curseforge/v1/mods/256717/files/2666198",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-single-file",
-    "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.66%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "97.49%",
-    "uptimeYear": "98.65%",
+    "uptimeYear": "98.66%",
     "time": 850,
     "timeDay": 1678,
     "timeWeek": 836,
     "timeMonth": 1106,
     "timeYear": 850,
     "dailyMinutesDown": {
-      "2025-08-06": 19,
       "2025-08-12": 43,
       "2025-08-16": 16,
       "2025-08-17": 18,
@@ -447,7 +449,8 @@
       "2026-06-03": 79,
       "2026-06-07": 198,
       "2026-06-10": 131,
-      "2026-06-12": 194
+      "2026-06-12": 194,
+      "2026-06-20": 2
     }
   },
   {
@@ -455,11 +458,11 @@
     "url": "https://mod.mcimirror.top/curseforge/v1/mods/238222/files",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-files",
-    "status": "up",
+    "status": "down",
     "uptime": "98.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.52%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "97.51%",
     "uptimeYear": "98.43%",
     "time": 1460,
     "timeDay": 2470,
@@ -467,7 +470,6 @@
     "timeMonth": 3023,
     "timeYear": 1460,
     "dailyMinutesDown": {
-      "2025-08-16": 16,
       "2025-08-17": 18,
       "2025-08-18": 50,
       "2025-08-19": 31,
@@ -540,7 +542,8 @@
       "2026-05-31": 253,
       "2026-06-03": 74,
       "2026-06-07": 198,
-      "2026-06-10": 336
+      "2026-06-10": 336,
+      "2026-06-20": 1
     }
   },
   {
@@ -548,19 +551,18 @@
     "url": "https://mod.mcimirror.top/curseforge/v1/fingerprints",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-fingerprints",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.92%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "97.91%",
     "uptimeMonth": "96.86%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.50%",
     "time": 1564,
     "timeDay": 262,
     "timeWeek": 1005,
     "timeMonth": 682,
     "timeYear": 1564,
     "dailyMinutesDown": {
-      "2025-07-15": 30,
       "2025-07-28": 19,
       "2025-08-04": 55,
       "2025-08-06": 18,
@@ -640,7 +642,8 @@
       "2026-06-07": 198,
       "2026-06-10": 331,
       "2026-06-11": 96,
-      "2026-06-18": 209
+      "2026-06-18": 209,
+      "2026-06-20": 1
     }
   },
   {
@@ -648,10 +651,10 @@
     "url": "https://mod.mcimirror.top/curseforge/v1/fingerprints/432",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-fingerprints-432",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "98.72%",
     "time": 1684,
@@ -735,7 +738,8 @@
       "2026-06-03": 64,
       "2026-06-07": 198,
       "2026-06-10": 116,
-      "2026-06-11": 96
+      "2026-06-11": 96,
+      "2026-06-20": 1
     }
   },
   {
@@ -1346,7 +1350,7 @@
     "uptime": "85.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.30%",
+    "uptimeMonth": "76.77%",
     "uptimeYear": "85.51%",
     "time": 2373,
     "timeDay": 1808,
