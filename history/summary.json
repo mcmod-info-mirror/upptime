@@ -180,7 +180,7 @@
     "slug": "mcim-curseforge-search",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "0.05%",
+    "uptimeDay": "60.72%",
     "uptimeWeek": "71.55%",
     "uptimeMonth": "93.00%",
     "uptimeYear": "98.48%",
@@ -558,7 +558,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-fingerprints",
     "status": "up",
-    "uptime": "98.55%",
+    "uptime": "98.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "98.95%",
@@ -756,7 +756,7 @@
     "slug": "mcim-modrinth-search",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "0.07%",
+    "uptimeDay": "60.74%",
     "uptimeWeek": "71.61%",
     "uptimeMonth": "92.99%",
     "uptimeYear": "98.86%",
@@ -1363,10 +1363,10 @@
     "url": "https://mod.mcimirror.top/data/P7dR8mSH/versions/Y0cpssyN/fabric-api-0.100.6%2B1.21.jar",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-file-cdn",
-    "status": "up",
-    "uptime": "86.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.53%",
+    "status": "down",
+    "uptime": "86.46%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "86.22%",
     "time": 2316,
@@ -1476,7 +1476,8 @@
       "2026-04-09": 1440,
       "2026-04-08": 798,
       "2026-06-11": 280,
-      "2026-07-11": 48
+      "2026-07-11": 48,
+      "2026-07-14": 1
     }
   },
   {
@@ -1484,11 +1485,11 @@
     "url": "https://mod.mcimirror.top/files/5106/178/jei-1.19.2-forge-11.6.0.1019.jar",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-file-cdn",
-    "status": "up",
-    "uptime": "91.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.64%",
+    "status": "down",
+    "uptime": "91.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "91.81%",
     "time": 4495,
     "timeDay": 464,
@@ -1579,7 +1580,8 @@
       "2026-06-07": 145,
       "2026-06-10": 73,
       "2026-06-15": 112,
-      "2026-07-11": 47
+      "2026-07-11": 47,
+      "2026-07-14": 1
     }
   }
 ]
