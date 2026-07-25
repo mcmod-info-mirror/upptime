@@ -92,16 +92,16 @@
     "url": "https://mod.mcimirror.top/docs",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-docs",
-    "status": "down",
-    "uptime": "98.86%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.81%",
+    "status": "up",
+    "uptime": "98.85%",
+    "uptimeDay": "95.39%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.80%",
     "time": 1212,
-    "timeDay": 1482,
-    "timeWeek": 1005,
-    "timeMonth": 1688,
+    "timeDay": 1271,
+    "timeWeek": 988,
+    "timeMonth": 1665,
     "timeYear": 1202,
     "dailyMinutesDown": {
       "2025-07-28": 21,
@@ -175,7 +175,7 @@
       "2026-07-15": 170,
       "2026-07-16": 75,
       "2026-07-17": 192,
-      "2026-07-25": 1
+      "2026-07-25": 66
     }
   },
   {
@@ -1382,7 +1382,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-file-cdn",
     "status": "up",
-    "uptime": "86.29%",
+    "uptime": "86.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.98%",
