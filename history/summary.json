@@ -664,16 +664,16 @@
     "url": "https://mod.mcimirror.top/curseforge/v1/fingerprints/432",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-fingerprints-432",
-    "status": "down",
-    "uptime": "98.72%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "97.21%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "98.64%",
+    "status": "up",
+    "uptime": "98.70%",
+    "uptimeDay": "92.94%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "98.62%",
     "time": 1623,
-    "timeDay": 1212,
-    "timeWeek": 1562,
-    "timeMonth": 1134,
+    "timeDay": 1358,
+    "timeWeek": 1568,
+    "timeMonth": 1146,
     "timeYear": 1702,
     "dailyMinutesDown": {
       "2025-08-06": 18,
@@ -757,7 +757,7 @@
       "2026-07-26": 46,
       "2026-07-28": 144,
       "2026-07-29": 90,
-      "2026-07-31": 1
+      "2026-07-31": 102
     }
   },
   {
