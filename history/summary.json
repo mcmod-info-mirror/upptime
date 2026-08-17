@@ -14,7 +14,7 @@
     "timeDay": 1689,
     "timeWeek": 1477,
     "timeMonth": 1387,
-    "timeYear": 743,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2025-08-21": 31,
       "2025-08-23": 45,
@@ -101,7 +101,7 @@
     "timeDay": 2350,
     "timeWeek": 1909,
     "timeMonth": 1634,
-    "timeYear": 1224,
+    "timeYear": 1222,
     "dailyMinutesDown": {
       "2025-08-21": 30,
       "2025-08-23": 43,
@@ -190,7 +190,7 @@
     "timeDay": 8282,
     "timeWeek": 8804,
     "timeMonth": 8470,
-    "timeYear": 3591,
+    "timeYear": 3596,
     "dailyMinutesDown": {
       "2025-08-18": 61,
       "2025-08-19": 31,
@@ -283,7 +283,7 @@
     "timeDay": 3278,
     "timeWeek": 3030,
     "timeMonth": 2768,
-    "timeYear": 1506,
+    "timeYear": 1508,
     "dailyMinutesDown": {
       "2025-10-25": 15,
       "2025-10-26": 16,
@@ -376,7 +376,7 @@
     "timeDay": 933,
     "timeWeek": 1016,
     "timeMonth": 1200,
-    "timeYear": 962,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2025-08-23": 41,
       "2025-08-29": 21,
@@ -476,7 +476,7 @@
     "timeDay": 4268,
     "timeWeek": 3780,
     "timeMonth": 3946,
-    "timeYear": 1835,
+    "timeYear": 1837,
     "dailyMinutesDown": {
       "2025-08-31": 26,
       "2025-09-10": 50,
@@ -561,17 +561,17 @@
     "url": "https://mod.mcimirror.top/curseforge/v1/fingerprints",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-fingerprints",
-    "status": "down",
+    "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "98.45%",
-    "time": 1503,
-    "timeDay": 3310,
-    "timeWeek": 1675,
-    "timeMonth": 1155,
-    "timeYear": 1631,
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "98.44%",
+    "time": 1504,
+    "timeDay": 3012,
+    "timeWeek": 1757,
+    "timeMonth": 1191,
+    "timeYear": 1635,
     "dailyMinutesDown": {
       "2025-08-18": 27,
       "2025-08-21": 29,
@@ -656,7 +656,7 @@
       "2026-08-07": 73,
       "2026-08-16": 75,
       "2026-08-15": 6,
-      "2026-08-17": 1
+      "2026-08-17": 44
     }
   },
   {
@@ -674,7 +674,7 @@
     "timeDay": 930,
     "timeWeek": 1012,
     "timeMonth": 1183,
-    "timeYear": 1748,
+    "timeYear": 1751,
     "dailyMinutesDown": {
       "2025-08-18": 50,
       "2025-08-21": 28,
@@ -774,7 +774,7 @@
     "timeDay": 1276,
     "timeWeek": 1389,
     "timeMonth": 2101,
-    "timeYear": 1119,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2025-08-18": 50,
       "2025-08-19": 39,
@@ -857,7 +857,7 @@
     "timeDay": 932,
     "timeWeek": 1164,
     "timeMonth": 1084,
-    "timeYear": 1334,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2025-08-18": 50,
       "2025-08-21": 27,
@@ -949,7 +949,7 @@
     "timeDay": 12287,
     "timeWeek": 11746,
     "timeMonth": 11496,
-    "timeYear": 3575,
+    "timeYear": 3580,
     "dailyMinutesDown": {
       "2025-08-18": 50,
       "2025-08-19": 20,
@@ -1037,7 +1037,7 @@
     "timeDay": 942,
     "timeWeek": 953,
     "timeMonth": 1576,
-    "timeYear": 1029,
+    "timeYear": 1030,
     "dailyMinutesDown": {
       "2025-08-18": 50,
       "2025-08-19": 20,
@@ -1123,7 +1123,7 @@
     "timeDay": 945,
     "timeWeek": 1008,
     "timeMonth": 1580,
-    "timeYear": 795,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2025-08-18": 50,
       "2025-08-19": 39,
@@ -1208,7 +1208,7 @@
     "timeDay": 2959,
     "timeWeek": 3059,
     "timeMonth": 3263,
-    "timeYear": 2766,
+    "timeYear": 2768,
     "dailyMinutesDown": {
       "2025-08-18": 50,
       "2025-08-19": 161,
@@ -1295,7 +1295,7 @@
     "timeDay": 933,
     "timeWeek": 1159,
     "timeMonth": 933,
-    "timeYear": 1158,
+    "timeYear": 1157,
     "dailyMinutesDown": {
       "2025-08-18": 50,
       "2025-08-19": 19,
@@ -1377,7 +1377,7 @@
     "timeDay": 1720,
     "timeWeek": 1812,
     "timeMonth": 1703,
-    "timeYear": 2436,
+    "timeYear": 2440,
     "dailyMinutesDown": {
       "2025-08-18": 50,
       "2025-08-19": 19,
@@ -1497,7 +1497,7 @@
     "timeDay": 1231,
     "timeWeek": 2025,
     "timeMonth": 1589,
-    "timeYear": 4706,
+    "timeYear": 4715,
     "dailyMinutesDown": {
       "2025-08-18": 50,
       "2025-08-19": 39,
